@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8519448e.chunk.css",
-    "main.js": "/static/js/main.1c904d49.chunk.js",
-    "main.js.map": "/static/js/main.1c904d49.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9a034ce5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9a034ce5.js.map",
-    "static/js/2.4dab3751.chunk.js": "/static/js/2.4dab3751.chunk.js",
-    "static/js/2.4dab3751.chunk.js.map": "/static/js/2.4dab3751.chunk.js.map",
-    "static/js/3.8f42aa0f.chunk.js": "/static/js/3.8f42aa0f.chunk.js",
-    "static/js/3.8f42aa0f.chunk.js.map": "/static/js/3.8f42aa0f.chunk.js.map",
+    "main.js": "/static/js/main.1b629898.chunk.js",
+    "main.js.map": "/static/js/main.1b629898.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6804366.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6804366.js.map",
+    "static/js/2.2f65c63b.chunk.js": "/static/js/2.2f65c63b.chunk.js",
+    "static/js/2.2f65c63b.chunk.js.map": "/static/js/2.2f65c63b.chunk.js.map",
+    "static/js/3.547f6d6f.chunk.js": "/static/js/3.547f6d6f.chunk.js",
+    "static/js/3.547f6d6f.chunk.js.map": "/static/js/3.547f6d6f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.8519448e.chunk.css.map": "/static/css/main.8519448e.chunk.css.map",
-    "static/js/2.4dab3751.chunk.js.LICENSE.txt": "/static/js/2.4dab3751.chunk.js.LICENSE.txt",
+    "static/js/2.2f65c63b.chunk.js.LICENSE.txt": "/static/js/2.2f65c63b.chunk.js.LICENSE.txt",
     "static/media/card-vector-1.d439bae7.svg": "/static/media/card-vector-1.d439bae7.svg",
     "static/media/card-vector-2.e15623dd.svg": "/static/media/card-vector-2.e15623dd.svg",
     "static/media/card-vector-3.da2d3690.svg": "/static/media/card-vector-3.da2d3690.svg",
@@ -19,7 +19,7 @@
     "static/media/circle-background.985d4b97.svg": "/static/media/circle-background.985d4b97.svg",
     "static/media/flip-card-arrow.219821a8.svg": "/static/media/flip-card-arrow.219821a8.svg",
     "static/media/footer-image.7fea5af0.svg": "/static/media/footer-image.7fea5af0.svg",
-    "static/media/hero-image.51a3075d.svg": "/static/media/hero-image.51a3075d.svg",
+    "static/media/hero-image.775adb39.svg": "/static/media/hero-image.775adb39.svg",
     "static/media/link-vector.77f22d6c.svg": "/static/media/link-vector.77f22d6c.svg",
     "static/media/modal-icon.33170fc8.svg": "/static/media/modal-icon.33170fc8.svg",
     "static/media/roadmap-square-icon.803d5015.svg": "/static/media/roadmap-square-icon.803d5015.svg",
@@ -32,9 +32,9 @@
     "static/media/zeta-logo.e0aaa1d3.svg": "/static/media/zeta-logo.e0aaa1d3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a034ce5.js",
-    "static/js/2.4dab3751.chunk.js",
+    "static/js/runtime-main.d6804366.js",
+    "static/js/2.2f65c63b.chunk.js",
     "static/css/main.8519448e.chunk.css",
-    "static/js/main.1c904d49.chunk.js"
+    "static/js/main.1b629898.chunk.js"
   ]
 }
