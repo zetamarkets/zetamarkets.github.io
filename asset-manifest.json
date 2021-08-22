@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8519448e.chunk.css",
-    "main.js": "/static/js/main.5d5ed439.chunk.js",
-    "main.js.map": "/static/js/main.5d5ed439.chunk.js.map",
+    "main.js": "/static/js/main.854ea8ed.chunk.js",
+    "main.js.map": "/static/js/main.854ea8ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6804366.js",
     "runtime-main.js.map": "/static/js/runtime-main.d6804366.js.map",
     "static/js/2.2f65c63b.chunk.js": "/static/js/2.2f65c63b.chunk.js",
@@ -12,29 +12,29 @@
     "index.html": "/index.html",
     "static/css/main.8519448e.chunk.css.map": "/static/css/main.8519448e.chunk.css.map",
     "static/js/2.2f65c63b.chunk.js.LICENSE.txt": "/static/js/2.2f65c63b.chunk.js.LICENSE.txt",
-    "static/media/card-vector-1.d439bae7.svg": "/static/media/card-vector-1.d439bae7.svg",
-    "static/media/card-vector-2.e15623dd.svg": "/static/media/card-vector-2.e15623dd.svg",
-    "static/media/card-vector-3.da2d3690.svg": "/static/media/card-vector-3.da2d3690.svg",
-    "static/media/card-vector-4.91558604.svg": "/static/media/card-vector-4.91558604.svg",
+    "static/media/Undercollateralized-trading.91558604.svg": "/static/media/Undercollateralized-trading.91558604.svg",
     "static/media/circle-background.985d4b97.svg": "/static/media/circle-background.985d4b97.svg",
     "static/media/flip-card-arrow.219821a8.svg": "/static/media/flip-card-arrow.219821a8.svg",
     "static/media/footer-image.7fea5af0.svg": "/static/media/footer-image.7fea5af0.svg",
-    "static/media/hero-image.775adb39.svg": "/static/media/hero-image.775adb39.svg",
-    "static/media/link-vector.77f22d6c.svg": "/static/media/link-vector.77f22d6c.svg",
     "static/media/modal-icon.33170fc8.svg": "/static/media/modal-icon.33170fc8.svg",
-    "static/media/roadmap-square-icon.803d5015.svg": "/static/media/roadmap-square-icon.803d5015.svg",
-    "static/media/roadmap-square-q2.172e3629.svg": "/static/media/roadmap-square-q2.172e3629.svg",
-    "static/media/roadmap-square-q3.71788df3.svg": "/static/media/roadmap-square-q3.71788df3.svg",
-    "static/media/roadmap-square-q4.b2072fb4.svg": "/static/media/roadmap-square-q4.b2072fb4.svg",
+    "static/media/options-framework.d439bae7.svg": "/static/media/options-framework.d439bae7.svg",
+    "static/media/options-liquidity.e15623dd.svg": "/static/media/options-liquidity.e15623dd.svg",
+    "static/media/options-pricing.da2d3690.svg": "/static/media/options-pricing.da2d3690.svg",
     "static/media/serum.b9084da5.svg": "/static/media/serum.b9084da5.svg",
+    "static/media/solana-hack-roadmap-square.803d5015.svg": "/static/media/solana-hack-roadmap-square.803d5015.svg",
     "static/media/solana.b612f140.svg": "/static/media/solana.b612f140.svg",
-    "static/media/white-link-vector.91369b8e.svg": "/static/media/white-link-vector.91369b8e.svg",
-    "static/media/zeta-logo.e0aaa1d3.svg": "/static/media/zeta-logo.e0aaa1d3.svg"
+    "static/media/white-whitepaper-link-vector.91369b8e.svg": "/static/media/white-whitepaper-link-vector.91369b8e.svg",
+    "static/media/whitepaper-link-vector.77f22d6c.svg": "/static/media/whitepaper-link-vector.77f22d6c.svg",
+    "static/media/zeta-logo.e0aaa1d3.svg": "/static/media/zeta-logo.e0aaa1d3.svg",
+    "static/media/zeta-markets-platform.775adb39.svg": "/static/media/zeta-markets-platform.775adb39.svg",
+    "static/media/zeta-roadmap-q2.172e3629.svg": "/static/media/zeta-roadmap-q2.172e3629.svg",
+    "static/media/zeta-roadmap-q3.71788df3.svg": "/static/media/zeta-roadmap-q3.71788df3.svg",
+    "static/media/zeta-roadmap-q4.b2072fb4.svg": "/static/media/zeta-roadmap-q4.b2072fb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d6804366.js",
     "static/js/2.2f65c63b.chunk.js",
     "static/css/main.8519448e.chunk.css",
-    "static/js/main.5d5ed439.chunk.js"
+    "static/js/main.854ea8ed.chunk.js"
   ]
 }
